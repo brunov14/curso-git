@@ -1,3 +1,3 @@
-Este projeto serve como base de estudos para o curso de GIT ofertado pelo Alura.
+Este projeto serve como base de estudos para a apresentação de GIT.
 Aluno: Bruno Vieira.
 Email: brunov14@gmail.com
